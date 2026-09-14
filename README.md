@@ -33,7 +33,7 @@ Join us at https://meet.drwhy.ai.
 * 17.08 - Kamil Książek
 * 24.08 - Piotr Suszyński
 * 31.08 - Paweł Gelar
-* 7.09 - Vladimir Zaigrajew
+* 7.09 -  (Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers)[https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_09_07_activation_oracles] - Vladimir Zaigrajew
 * 14.09 - Julian Sienkiewicz
 * 21.09 - Damian Wójtowicz
 * 28.09 - Jakub Grzywaczewski
