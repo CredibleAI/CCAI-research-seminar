@@ -30,7 +30,7 @@ Join us at https://meet.drwhy.ai.
 * 27.07 - Tomasz Steifer
 * 3.08 - invited lecture by Maximilian Muschalik
 * 10.08 - Michał Włodarczyk
-* 17.08 - Kamil Książek
+* 17.08 - [SAPER: Soft Attention Pruner](https://github.com/CredibleAI/CCAI-research-seminar/blob/master/2026/2026_08_17_SAPER_soft_attention_pruner.pdf) - Kamil Książek
 * 24.08 - [Verifying Chain-of-Thought Reasoning via Its Computational Graph](https://github.com/CredibleAI/CCAI-research-seminar/blob/master/2026/2026_08_24_Verifying_Chain_of_Thought_Reasoning_via_Its_Computational_Graph.pdf) - Piotr Suszyński
 * 31.08 - [Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_08_31_Are_VLMs_Seeing) Paweł Gelar
 * 7.09 -  [Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_09_07_activation_oracles) - Vladimir Zaigrajew
