@@ -38,9 +38,12 @@ Join us at https://meet.drwhy.ai.
 * 21.09 - Damian Wójtowicz
 * 28.09 - Jakub Grzywaczewski
 * 5.10 - Agata Wijata
-* 12.10 - Inez Okulska
+* 12.10 - Tomasz Steifer
 * 19.10 - Surprise!
 * 26.10 - Bartłomiej Sobieski
+* 2.11 - Hubert Baniecki
+* 9.11 - Paweł Struski
+* 16.11 - Yijun Bian
 
 ### Fall semester
 
