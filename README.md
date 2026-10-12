@@ -31,10 +31,10 @@ Join us at https://meet.drwhy.ai.
 * 3.08 - invited lecture by Maximilian Muschalik
 * 10.08 - Michał Włodarczyk
 * 17.08 - Kamil Książek
-* 24.08 - Piotr Suszyński
+* 24.08 - [Verifying Chain-of-Thought Reasoning via Its Computational Graph](https://github.com/CredibleAI/CCAI-research-seminar/blob/master/2026/2026_08_24_Verifying_Chain_of_Thought_Reasoning_via_Its_Computational_Graph.pdf) - Piotr Suszyński
 * 31.08 - [Are VLMs Seeing or Just Saying? Uncovering the Illusion of Visual Re-examination](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_08_31_Are_VLMs_Seeing) Paweł Gelar
-* 7.09 -  (Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers)[https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_09_07_activation_oracles] - Vladimir Zaigrajew
-* 14.09 - Julian Sienkiewicz
+* 7.09 -  [Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_09_07_activation_oracles) - Vladimir Zaigrajew
+* 14.09 - [AI agents can coordinate via majority-following beyond human scale](https://github.com/CredibleAI/CCAI-research-seminar/blob/master/2026/2026_09_14_Sienkiewicz_AI%20agents%20can%20coordinate%20via%20majority-following%20beyond%20human%20scale.pptx)) - Julian Sienkiewicz
 * 21.09 - Damian Wójtowicz
 * 28.09 - Jakub Grzywaczewski
 * 5.10 - Agata Wijata
