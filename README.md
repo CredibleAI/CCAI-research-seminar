@@ -36,14 +36,19 @@ Join us at https://meet.drwhy.ai.
 * 7.09 -  [Activation Oracles: Training and Evaluating LLMs as General-Purpose Activation Explainers](https://github.com/MI2DataLab/MI2DataLab_Seminarium/tree/master/2026/2026_09_07_activation_oracles) - Vladimir Zaigrajew
 * 14.09 - [AI agents can coordinate via majority-following beyond human scale](https://github.com/CredibleAI/CCAI-research-seminar/blob/master/2026/2026_09_14_Sienkiewicz_AI%20agents%20can%20coordinate%20via%20majority-following%20beyond%20human%20scale.pptx)) - Julian Sienkiewicz
 * 21.09 - [Toward the identification of common DNA repair processes in mutational signatures](https://github.com/CredibleAI/CCAI-research-seminar/blob/master/2026/2026_09_21_common_repair_processes_in_mutational_signatures.pdf) - Damian Wójtowicz
-* 28.09 - Jakub Grzywaczewski
+* 28.09 - [Transformer Circuits Can Realize Clustering Algorithms](2026/2026_09_28_transformer_circuits_clustering.pdf) - Jakub Grzywaczewski
 * 5.10 - Agata Wijata
 * 12.10 - Tomasz Steifer
 * 19.10 - Surprise!
-* 26.10 - Bartłomiej Sobieski
-* 2.11 - Hubert Baniecki
-* 9.11 - Paweł Struski
-* 16.11 - Yijun Bian
+* 26.10 - [Local Intrinsic Dimension Unveils Hallucinations in Diffusion Models](2026/2026_10_26_lid_hallucinations_in_diffusion_models.pdf) - Bartłomiej Sobieski
+* 2.11 - [LinMix: Data Mixing as Linear Domain Attribution](https://docs.google.com/presentation/d/1sRjkHz-UlzfZVLIX3lxSsuyDSLMSbAmDeLLEohpH6sg/edit?usp=sharing) - Hubert Baniecki
+* 9.11 - [Utility Engineering: Analyzing and Controlling Emergent Value Systems in AIs](2026/2026_11_09_utility_engineering.pdf) - Paweł Struski
+* 16.11 - [Bias amplification](2026/2026_11_16_bias_amplification.pptx) - Yijun Bian
+* 23.11 - [Learning to look and search: Efficient visual exploration for embodied agents](https://adam.pardyl.com/files/thesis.pdf) - Adam Pardyl
+* 30.11 - Jan Piotrowski
+* 07.12 - Open slot — looking for a speaker
+* 14.12 - Open slot — looking for a speaker
+* 21.12 - Open slot — looking for a speaker
 
 ### Fall semester
 
